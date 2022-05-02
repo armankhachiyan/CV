@@ -1,3 +1,3 @@
 # CV
 
-This is my up-to-date academic CV.
+This is my latest academic CV.
